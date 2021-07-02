@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "ug2017",
+    "description": "",
+    "home_page_url": "https://nivedkrishnans.github.io/publii_test",
+    "feed_url": "https://nivedkrishnans.github.io/publii_test/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "nived"
+    },
+    "items": [
+    ]
+}

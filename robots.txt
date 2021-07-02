@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://nivedkrishnans.github.io/publii_test/sitemap.xml
